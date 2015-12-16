@@ -1,0 +1,1395 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.059 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\kpoet_000\Desktop\KeAunRobinson - Final\Build\KeAunRobinson-Final_win_86\KeAunRobinson-Final_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at UI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 538 -> priority: 1 
+  Thread -> id: 4dbc -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.696498 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.424757 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.016974 ms MarkObjects: 0.204089 ms  DeleteObjects: 0.177640 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Patrol Point: (-5.5, 2.8, 9.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Enemy going to patrol to point PatrolPoint1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01751731
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4898 -> priority: 1 
+  Thread -> id: 3144 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01751731
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02947212
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03399879
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03133852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02354761
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02391
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02347814
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02296771
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02320733
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02258796
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02087945
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02081353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02108907
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.02041404
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01865342
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01940267
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01850697
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01955031
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01774864
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01743994
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0186171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03111075
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01871185
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01757258
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01765785
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01851013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01922069
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01622172
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01668793
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01660385
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01685294
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01673649
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01665556
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01671991
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0168028
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0166149
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01654187
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01698439
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01653832
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01673333
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01674478
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01669425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01810787
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01630107
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01679136
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01831196
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01477573
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0166674
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01711466
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01604329
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0162312
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0184667
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01503982
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01649016
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01787852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01602987
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01642266
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01671596
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01777785
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01610014
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01771943
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01519101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01866171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01472915
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01645897
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01631054
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01666425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01649608
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01827762
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0148989
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01795707
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01482823
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01832735
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0164345
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01431031
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01675386
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01796734
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01502324
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01860566
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01577367
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01609659
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01860132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01693623
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01512588
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01666425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01799339
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01839288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0152901
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01687189
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01706532
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01816037
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01584473
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01724375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01991506
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01653555
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01938451
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01816037
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01541681
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01784812
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03317256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01556051
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01793733
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03210198
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01640134
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01832656
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03185684
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01631489
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01851368
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03291952
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01630778
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01725362
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03138708
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01813353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01726033
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03206961
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01615856
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0183242
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03491936
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01351764
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01798194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03105509
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0173831
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01847894
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03159985
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01797602
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01901581
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03104246
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03191605
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01674714
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01823814
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03151656
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01752521
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0175181
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03097811
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01784141
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01810274
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0315813
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01827406
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01669583
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.0319204
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01778101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01692202
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03164091
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01874145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.01640015
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Collectibles.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Time.deltaTime: 0.03296097
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
